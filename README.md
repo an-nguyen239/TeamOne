@@ -6,8 +6,8 @@ Parallel Programming Skills
 
 Team members:
 
-An nguyen 
-Elizabeth Celedon-Jasso
-Jeffrey Tram
-Krishan Chib
-Rebecca Kang
+An nguyen,  
+Elizabeth Celedon-Jasso, 
+Jeffrey Tram, 
+Krishan Chib, 
+Rebecca Kang, 
